@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Federico Sollazzo</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_contraseña">Contraseña</string>
+    <string name="msg_login_exitoso">Inicio de sesión exitoso</string>
+    <string name="msg_login_fallido">Usuario o contraseña incorrectos</string>
+    <string name="btn_salir">Salir</string>
+    <string name="btn_acercade">Acerca de</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="leyenda">Coca-Cola es una bebida azucarada gaseosa vendida a nivel mundial en tiendas, restaurantes y máquinas expendedoras en más de doscientos países o territorios.</string>
+    <string name="btn_volver">Atras</string>
+    <string name="btn_correo">Llamar</string>
+    <string name="btn_llamar">LLamar</string>
+    <string name="llamar">llamar</string>
+    <string name="correo">Correo</string>
+    <string name="telefono_2954_657764">Telefono: 2954-657764</string>
+    <string name="nombre_federico_sollazzo">Nombre: Federico Sollazzo</string>
+
+</resources>

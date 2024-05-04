@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Federico Sollazzo</string>
+    <string name="btn_salir">Exit</string>
+    <string name="btn_acercade">About</string>
+    <string name="btn_iniciar">Login</string>
+    <string name="hint_usuario">User</string>
+    <string name="hint_contraseña">Pasword</string>
+    <string name="msg_login_exitoso">Successful login</string>
+    <string name="msg_login_fallido">" Incorrect username or password"</string>
+    <string name="iniciar_sesion">Sign in</string>
+    <string name="leyenda">Coca-Cola is a sugary carbonated beverage sold worldwide in stores, restaurants, and vending machines in more than two hundred countries or territories..</string>
+    <string name="btn_volver">Go back</string>
+    <string name="btn_correo">call</string>
+    <string name="btn_llamar">Call</string>
+    <string name="llamar">Call</string>
+    <string name="correo">Mail</string>
+    <string name="telefono_2954_657764">Telephone: 2954-657764</string>
+    <string name="nombre_federico_sollazzo">Name: Federico Sollazzo</string>
+</resources>
